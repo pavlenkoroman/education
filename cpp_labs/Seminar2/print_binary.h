@@ -1,1 +1,0 @@
-void print_binary(unsigned long long value);
