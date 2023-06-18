@@ -1,0 +1,3 @@
+C:/Users/romap/OneDrive/Рабочий стол/cpp_labs/seminar_4_queue/cmake-build-debug/CMakeFiles/seminar_4_queue.dir
+C:/Users/romap/OneDrive/Рабочий стол/cpp_labs/seminar_4_queue/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/romap/OneDrive/Рабочий стол/cpp_labs/seminar_4_queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir

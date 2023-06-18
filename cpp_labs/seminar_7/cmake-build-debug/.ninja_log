@@ -1,0 +1,20 @@
+# ninja log v5
+5	521	7087428366158123	CMakeFiles/seminar_7.dir/Fraction.cpp.obj	47678bfdce92ff1b
+19	560	7087491973882136	CMakeFiles/seminar_7.dir/Players/Player.cpp.obj	454730f1d32dddf8
+17	349	7087463147353487	CMakeFiles/seminar_7.dir/Student.cpp.obj	c6e657b4a2d6bd79
+15	332	7087469738942194	CMakeFiles/seminar_7.dir/Contact.cpp.obj	2daf13b09d57252e
+6	806	7087491976392422	CMakeFiles/seminar_7.dir/seminar_7.cpp.obj	789e87ad2deef066
+13	516	7087472732906496	CMakeFiles/seminar_7.dir/PhoneBook.cpp.obj	6ec4dec4711605e5
+806	928	7087491977608963	seminar_7.exe	dc0c203dfe635b37
+12	495	7087483329014462	CMakeFiles/seminar_7.dir/Bank/BankAccount.cpp.obj	4f515956209afe53
+20	577	7087483329845150	CMakeFiles/seminar_7.dir/Bank/Bank.cpp.obj	c2ef4b4f9dbd0b15
+29	598	7087491974292152	CMakeFiles/seminar_7.dir/Players/Warrior.cpp.obj	106f1f3209fc339d
+13	615	7087491974462148	CMakeFiles/seminar_7.dir/Players/Mage.cpp.obj	d73b7f37bb57bb7c
+37	629	7087491974652140	CMakeFiles/seminar_7.dir/Players/Archer.cpp.obj	f5283cc88b8790a0
+8	519	7087495801656497	CMakeFiles/seminar_7.dir/Games/RPG.cpp.obj	2857aa8010b854eb
+16	529	7087495801776598	CMakeFiles/seminar_7.dir/Games/Game.cpp.obj	cebf3d6d4e9118ee
+21	571	7087495802314245	CMakeFiles/seminar_7.dir/Games/Shooter.cpp.obj	56c787e5e7d72186
+4	786	7087495804452717	CMakeFiles/seminar_7.dir/seminar_7.cpp.obj	789e87ad2deef066
+786	919	7087495805732723	seminar_7.exe	f8b6509053a83bce
+9	1262	7087496605312717	CMakeFiles/seminar_7.dir/seminar_7.cpp.obj	789e87ad2deef066
+1263	1491	7087496607554252	seminar_7.exe	f8b6509053a83bce
