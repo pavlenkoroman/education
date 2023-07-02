@@ -26,17 +26,6 @@ namespace EulerMethod
                 richTextBox1.Text +=  $"Точка: x: {item[0]}; y: {item[0]}\n";
                 richTextBox1.Text += $"Точка: x: {item[0]}; z: {item[2]}\n";
             }
-
-            var b = Euler.ModifiedEuler();
-
-            foreach (var item in b)
-            {
-                chart2.Series[0].Points.AddXY(item[0], item[1]);
-                chart2.Series[1].Points.AddXY(item[0], item[2]);
-
-                richTextBox1.Text += $"Точка: x: {item[0]}; y: {item[0]}\n";
-                richTextBox1.Text += $"Точка: x: {item[0]}; z: {item[2]}\n";
-            }
         }
     }
 }
