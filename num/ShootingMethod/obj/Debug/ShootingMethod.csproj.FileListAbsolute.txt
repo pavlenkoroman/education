@@ -1,0 +1,11 @@
+C:\Users\romap\OneDrive\Рабочий стол\education\num\ShootingMethod\bin\Debug\ShootingMethod.exe.config
+C:\Users\romap\OneDrive\Рабочий стол\education\num\ShootingMethod\bin\Debug\ShootingMethod.exe
+C:\Users\romap\OneDrive\Рабочий стол\education\num\ShootingMethod\bin\Debug\ShootingMethod.pdb
+C:\Users\romap\OneDrive\Рабочий стол\education\num\ShootingMethod\obj\Debug\ShootingMethod.csproj.AssemblyReference.cache
+C:\Users\romap\OneDrive\Рабочий стол\education\num\ShootingMethod\obj\Debug\ShootingMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\romap\OneDrive\Рабочий стол\education\num\ShootingMethod\obj\Debug\ShootingMethod.Form1.resources
+C:\Users\romap\OneDrive\Рабочий стол\education\num\ShootingMethod\obj\Debug\ShootingMethod.Properties.Resources.resources
+C:\Users\romap\OneDrive\Рабочий стол\education\num\ShootingMethod\obj\Debug\ShootingMethod.csproj.GenerateResource.cache
+C:\Users\romap\OneDrive\Рабочий стол\education\num\ShootingMethod\obj\Debug\ShootingMethod.csproj.CoreCompileInputs.cache
+C:\Users\romap\OneDrive\Рабочий стол\education\num\ShootingMethod\obj\Debug\ShootingMethod.exe
+C:\Users\romap\OneDrive\Рабочий стол\education\num\ShootingMethod\obj\Debug\ShootingMethod.pdb

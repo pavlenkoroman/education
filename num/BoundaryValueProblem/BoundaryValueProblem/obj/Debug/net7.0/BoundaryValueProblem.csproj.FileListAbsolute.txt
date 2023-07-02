@@ -1,0 +1,15 @@
+C:\Users\romap\OneDrive\Рабочий стол\education\num\BoundaryValueProblem\BoundaryValueProblem\bin\Debug\net7.0\BoundaryValueProblem.exe
+C:\Users\romap\OneDrive\Рабочий стол\education\num\BoundaryValueProblem\BoundaryValueProblem\bin\Debug\net7.0\BoundaryValueProblem.deps.json
+C:\Users\romap\OneDrive\Рабочий стол\education\num\BoundaryValueProblem\BoundaryValueProblem\bin\Debug\net7.0\BoundaryValueProblem.runtimeconfig.json
+C:\Users\romap\OneDrive\Рабочий стол\education\num\BoundaryValueProblem\BoundaryValueProblem\bin\Debug\net7.0\BoundaryValueProblem.dll
+C:\Users\romap\OneDrive\Рабочий стол\education\num\BoundaryValueProblem\BoundaryValueProblem\bin\Debug\net7.0\BoundaryValueProblem.pdb
+C:\Users\romap\OneDrive\Рабочий стол\education\num\BoundaryValueProblem\BoundaryValueProblem\obj\Debug\net7.0\BoundaryValueProblem.csproj.AssemblyReference.cache
+C:\Users\romap\OneDrive\Рабочий стол\education\num\BoundaryValueProblem\BoundaryValueProblem\obj\Debug\net7.0\BoundaryValueProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romap\OneDrive\Рабочий стол\education\num\BoundaryValueProblem\BoundaryValueProblem\obj\Debug\net7.0\BoundaryValueProblem.AssemblyInfoInputs.cache
+C:\Users\romap\OneDrive\Рабочий стол\education\num\BoundaryValueProblem\BoundaryValueProblem\obj\Debug\net7.0\BoundaryValueProblem.AssemblyInfo.cs
+C:\Users\romap\OneDrive\Рабочий стол\education\num\BoundaryValueProblem\BoundaryValueProblem\obj\Debug\net7.0\BoundaryValueProblem.csproj.CoreCompileInputs.cache
+C:\Users\romap\OneDrive\Рабочий стол\education\num\BoundaryValueProblem\BoundaryValueProblem\obj\Debug\net7.0\BoundaryValueProblem.dll
+C:\Users\romap\OneDrive\Рабочий стол\education\num\BoundaryValueProblem\BoundaryValueProblem\obj\Debug\net7.0\refint\BoundaryValueProblem.dll
+C:\Users\romap\OneDrive\Рабочий стол\education\num\BoundaryValueProblem\BoundaryValueProblem\obj\Debug\net7.0\BoundaryValueProblem.pdb
+C:\Users\romap\OneDrive\Рабочий стол\education\num\BoundaryValueProblem\BoundaryValueProblem\obj\Debug\net7.0\BoundaryValueProblem.genruntimeconfig.cache
+C:\Users\romap\OneDrive\Рабочий стол\education\num\BoundaryValueProblem\BoundaryValueProblem\obj\Debug\net7.0\ref\BoundaryValueProblem.dll
